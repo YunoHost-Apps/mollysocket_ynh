@@ -5,7 +5,9 @@
 
 # Mollysocket для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/mollysocket.svg)](https://ci-apps.yunohost.org/ci/apps/mollysocket/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/mollysocket.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/mollysocket.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/mollysocket)](https://ci-apps.yunohost.org/ci/apps/mollysocket/)
+![Состояние работы](https://apps.yunohost.org/badge/state/mollysocket)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/mollysocket)
 
 [![Установите Mollysocket с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mollysocket)
 

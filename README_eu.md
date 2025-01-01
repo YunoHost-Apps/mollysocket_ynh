@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Mollysocket YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/mollysocket.svg)](https://ci-apps.yunohost.org/ci/apps/mollysocket/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/mollysocket.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/mollysocket.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/mollysocket)](https://ci-apps.yunohost.org/ci/apps/mollysocket/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/mollysocket)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/mollysocket)
 
 [![Instalatu Mollysocket YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mollysocket)
 

@@ -5,7 +5,9 @@ NON debe editarse manualmente.
 
 # Mollysocket para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/mollysocket.svg)](https://ci-apps.yunohost.org/ci/apps/mollysocket/) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/mollysocket.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/mollysocket.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/mollysocket)](https://ci-apps.yunohost.org/ci/apps/mollysocket/)
+![Estado de funcionamento](https://apps.yunohost.org/badge/state/mollysocket)
+![Estado de mantemento](https://apps.yunohost.org/badge/maintained/mollysocket)
 
 [![Instalar Mollysocket con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mollysocket)
 
