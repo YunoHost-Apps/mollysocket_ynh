@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Mollysocket
 
-[![集成程度](https://dash.yunohost.org/integration/mollysocket.svg)](https://ci-apps.yunohost.org/ci/apps/mollysocket/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/mollysocket.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/mollysocket.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/mollysocket)](https://ci-apps.yunohost.org/ci/apps/mollysocket/)
+![工作状态](https://apps.yunohost.org/badge/state/mollysocket)
+![维护状态](https://apps.yunohost.org/badge/maintained/mollysocket)
 
 [![使用 YunoHost 安装 Mollysocket](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mollysocket)
 

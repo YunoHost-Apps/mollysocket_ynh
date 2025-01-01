@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Mollysocket untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/mollysocket.svg)](https://ci-apps.yunohost.org/ci/apps/mollysocket/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/mollysocket.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/mollysocket.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/mollysocket)](https://ci-apps.yunohost.org/ci/apps/mollysocket/)
+![Status kerja](https://apps.yunohost.org/badge/state/mollysocket)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/mollysocket)
 
 [![Pasang Mollysocket dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mollysocket)
 
