@@ -72,7 +72,7 @@ ram.runtime = "50M"
     autoupdate.strategy = "latest_github_release"
     autoupdate.asset.amd64 = "mollysocket-linux_amd64"
     autoupdate.asset.arm64 = "mollysocket-linux_arm64"
-    autoupdate.asset.armhf = "mollysocket-linux_armv7"
+    autoupdate.asset.armhf = "mollysocket-linux_arm_v7"
 
     [resources.system_user]
     # This will provision/deprovision a unix system user
