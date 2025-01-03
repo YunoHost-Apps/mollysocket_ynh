@@ -21,7 +21,7 @@
 MollySocket allows getting signal notifications via UnifiedPush. It works like a linked device, which doesn't have an encryption key, connected to the Signal server. Everytime it receives an encrypted event, it notifies your mobile via UnifiedPush.
 
 
-**分发版本：** 1.4.1~ynh1
+**分发版本：** 1.5.5~ynh1
 ## 文档与资源
 
 - 官方应用网站： <https://molly.im/>
