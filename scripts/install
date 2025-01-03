@@ -70,6 +70,9 @@ ynh_script_progression "Adding $app's configuration files..."
 ###
 ### Check the documentation of `ynh_config_add` for more info.
 
+# Generate VAPID key
+vapidkey=$($install_dir/ms vapid gen)
+
 ynh_config_add --template="prod.toml" --destination="$install_dir/prod.toml"
 
 # FIXME: this should be handled by the core in the future

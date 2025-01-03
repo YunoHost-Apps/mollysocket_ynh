@@ -3,3 +3,4 @@ allowed_endpoints = ['*']
 allowed_uuids = ['*']
 webserver = true
 port = __PORT__
+vapid_privkey = '__VAPIDKEY__'

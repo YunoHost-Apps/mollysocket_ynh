@@ -51,6 +51,9 @@ chmod +x "$install_dir/ms"
 #=================================================
 ynh_script_progression "Adding $app's configuration files..."
 
+# Read vapidkey from current config
+vapidkey=$(ynh_read_var_in_file --file="$install_dir/prod.toml" --key="vapid_privkey")
+
 ynh_config_add --template="prod.toml" --destination="$install_dir/prod.toml"
 
 # FIXME: this should be handled by the core in the future
