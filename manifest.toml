@@ -7,7 +7,7 @@ name = "Mollysocket"
 description.en = "Server for unified push support in Molly chat application"
 description.fr = "Serveur pour le support de unified push dans l’application de discussions Molly"
 
-version = "1.5.5~ynh1"
+version = "1.6.0~ynh1"
 
 maintainers = ["mcmic"]
 
@@ -55,12 +55,12 @@ ram.runtime = "50M"
     # This will pre-fetch the asset which can then be deployed during the install/upgrade scripts with :
     #    ynh_setup_source --dest_dir="$install_dir"
     # You can also define other assets than "main" and add --source_id="foobar" in the previous command
-    amd64.url = "https://github.com/mollyim/mollysocket/releases/download/1.5.5/mollysocket-linux_amd64"
-    amd64.sha256 = "d451a114ec9ef85f4cbf48788ffeaf588d144ad67d8bd4c6360ed4ee48f7f214"
-    arm64.url = "https://github.com/mollyim/mollysocket/releases/download/1.5.5/mollysocket-linux_arm64"
-    arm64.sha256 = "4dd87896d45480e75b4fb77feed098a0af63e107b10dc1e5d6ab7d7ee164531d"
-    armhf.url = "https://github.com/mollyim/mollysocket/releases/download/1.5.5/mollysocket-linux_arm_v7"
-    armhf.sha256 = "8a3150534823fed06410202b1f0f4103587348abf13265a9b954130e6e73a30d"
+    amd64.url = "https://github.com/mollyim/mollysocket/releases/download/1.6.0/mollysocket-linux_amd64"
+    amd64.sha256 = "9045f76729db5defee0652d9be4a474526d8fae47e5b1785b44cb84cdc5b57a6"
+    arm64.url = "https://github.com/mollyim/mollysocket/releases/download/1.6.0/mollysocket-linux_arm64"
+    arm64.sha256 = "dfccec9802baaa80059018a7e90ff07f6e086c1ad45e05c54f718e428eb47d42"
+    armhf.url = "https://github.com/mollyim/mollysocket/releases/download/1.6.0/mollysocket-linux_arm_v7"
+    armhf.sha256 = "e724c0a30c1de2bd74f5e065f88e87973c0c40a683a596e24da83ca3d067dc5c"
     rename = "ms"
 
     # These infos are used by https://github.com/YunoHost/apps/blob/master/tools/autoupdate_app_sources/autoupdate_app_sources.py
